@@ -1,7 +1,7 @@
 Movie Revenue Classification Using PySpark
 
 As part of my portfolio, I developed a machine learning project aimed at classifying movies into high or low revenue categories. 
-The objective was to predict whether a movie would attract strong sales based on various features such asgenre, release date, etc
+The objective was to predict whether a movie would attract strong sales based on various features such as genre, release date, etc
 This project was undertaken for, XYZ Movieplayer, who sought insights to guide investment in potential blockbuster films.
 
 Using PySpark, I created a Spark session to efficiently handle and process large movie datasets. 
